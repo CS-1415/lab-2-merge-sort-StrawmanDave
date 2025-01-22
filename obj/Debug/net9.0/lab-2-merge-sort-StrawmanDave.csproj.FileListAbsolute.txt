@@ -1,0 +1,15 @@
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\lab-2-merge-sort-StrawmanDave\bin\Debug\net9.0\lab-2-merge-sort-StrawmanDave.exe
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\lab-2-merge-sort-StrawmanDave\bin\Debug\net9.0\lab-2-merge-sort-StrawmanDave.deps.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\lab-2-merge-sort-StrawmanDave\bin\Debug\net9.0\lab-2-merge-sort-StrawmanDave.runtimeconfig.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\lab-2-merge-sort-StrawmanDave\bin\Debug\net9.0\lab-2-merge-sort-StrawmanDave.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\lab-2-merge-sort-StrawmanDave\bin\Debug\net9.0\lab-2-merge-sort-StrawmanDave.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\lab-2-merge-sort-StrawmanDave\obj\Debug\net9.0\lab-2-merge-sort-StrawmanDave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\lab-2-merge-sort-StrawmanDave\obj\Debug\net9.0\lab-2-merge-sort-StrawmanDave.AssemblyInfoInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\lab-2-merge-sort-StrawmanDave\obj\Debug\net9.0\lab-2-merge-sort-StrawmanDave.AssemblyInfo.cs
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\lab-2-merge-sort-StrawmanDave\obj\Debug\net9.0\lab-2-merge-sort-StrawmanDave.csproj.CoreCompileInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\lab-2-merge-sort-StrawmanDave\obj\Debug\net9.0\lab-2-merge-sort-StrawmanDave.sourcelink.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\lab-2-merge-sort-StrawmanDave\obj\Debug\net9.0\lab-2-merge-sort-StrawmanDave.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\lab-2-merge-sort-StrawmanDave\obj\Debug\net9.0\refint\lab-2-merge-sort-StrawmanDave.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\lab-2-merge-sort-StrawmanDave\obj\Debug\net9.0\lab-2-merge-sort-StrawmanDave.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\lab-2-merge-sort-StrawmanDave\obj\Debug\net9.0\lab-2-merge-sort-StrawmanDave.genruntimeconfig.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\lab-2-merge-sort-StrawmanDave\obj\Debug\net9.0\ref\lab-2-merge-sort-StrawmanDave.dll
